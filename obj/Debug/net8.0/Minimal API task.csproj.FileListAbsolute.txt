@@ -1,0 +1,33 @@
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\appsettings.json
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Minimal API task.exe
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Minimal API task.deps.json
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Minimal API task.runtimeconfig.json
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Minimal API task.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Minimal API task.pdb
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.csproj.AssemblyReference.cache
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.AssemblyInfoInputs.cache
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.AssemblyInfo.cs
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.csproj.CoreCompileInputs.cache
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\staticwebassets\msbuild.Minimal API task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\staticwebassets\msbuild.build.Minimal API task.props
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Minimal API task.props
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Minimal API task.props
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\scopedcss\bundle\Minimal API task.styles.css
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal .5DC7FC22.Up2Date
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\refint\Minimal API task.dll
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.pdb
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\Minimal API task.genruntimeconfig.cache
+C:\Users\P_DEV\Desktop\TRANARC\Minimal API task\obj\Debug\net8.0\ref\Minimal API task.dll

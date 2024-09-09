@@ -1,0 +1,38 @@
+@Minimal_API_task_HostAddress = http://localhost:5228
+
+GET {{Minimal_API_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Minimal_API_task_HostAddress}}/posts/
+Accept: application/json
+
+###
+
+GET {{Minimal_API_task_HostAddress}}/comments/
+Accept: application/json
+
+###
+
+GET {{Minimal_API_task_HostAddress}}/albums/
+Accept: application/json
+
+###
+
+GET {{Minimal_API_task_HostAddress}}/photos/
+Accept: application/json
+
+###
+
+GET {{Minimal_API_task_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Minimal_API_task_HostAddress}}/users/
+Accept: application/json
+
+###
+
+
